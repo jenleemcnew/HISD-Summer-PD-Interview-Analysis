@@ -167,4 +167,4 @@ HISD_PD_Analysis/
 
 This project was completed as part of an applied data analysis portfolio, demonstrating proficiency in Power BI, Microsoft Fabric, DAX formula authoring, Power Query data transformation, and data storytelling for non-technical stakeholders.
 
-For questions or feedback, contact: [your email or LinkedIn here]
+For questions or feedback, contact: https://www.linkedin.com/in/jenleemcnew/
