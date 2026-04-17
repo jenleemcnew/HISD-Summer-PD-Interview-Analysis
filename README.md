@@ -67,6 +67,8 @@ Built an interactive 3-page Power BI report with slicers for:
 - Facilitator
 - Content Category
 
+![Dashboard Preview](dashboard_preview.png)
+
 This allows stakeholders — including principals and PD coordinators — to explore findings for their specific context without any technical knowledge required.
 
 ---
