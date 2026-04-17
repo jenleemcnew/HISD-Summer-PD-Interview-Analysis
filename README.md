@@ -75,7 +75,7 @@ This allows stakeholders — including principals and PD coordinators — to exp
 
 ### Finding 1 — Grade Level Disparities
 
-![Grade Level Disparities](dashboard_preview.jpeg)
+![Grade Level Disparities](dashboard_preview.jpg)
 
 High school participants consistently rated PD sessions lower than elementary and middle school participants across both overall feedback and preparedness scores. The 0.13-point gap between middle and high school suggests high school teachers may have more specialized PD needs that current sessions are not fully addressing.
 
